@@ -10,7 +10,7 @@ const posts = [
     id: 1,
     author: {
       avatarUrl: "https://github.com/flavioaugusto1.png",
-      name: "Flávio Augusto",
+      name: "Flávio Silva",
       role: "Analista de suporte",
     },
     content: [
